@@ -66,8 +66,8 @@
 ![image](https://github.com/roshiniRK/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118956165/f47c637d-3926-4584-a11d-c5b7b58bd33d)
 
 
-### Name: Tharun kumar.M
-### Register Number: 212222100056
+### Name: PRAVIN RAJ A
+### Register Number: 212222240079
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
